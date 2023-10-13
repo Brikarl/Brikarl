@@ -22,7 +22,7 @@ def fetch_douban():
     entries = feedparser.parse("https://www.douban.com/feed/people/141831176/interests")["entries"]
     return [
         {
-            "title": item["title"],
+            "title": item["title"][0:2] + "「" + item["title"][2:] + "」",
             "url": item["link"].split("#")[0],
             "published": formatGMTime(item["published"])
         }
