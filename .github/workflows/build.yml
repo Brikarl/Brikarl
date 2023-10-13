@@ -40,4 +40,4 @@ jobs:
         git pull
         git add -A
         git commit -m "Updated content" || exit 0
-        git push
+        git push https://${{ secrets.GH_TOKEN }}@github.com/Brikarl/Brikarl.git
