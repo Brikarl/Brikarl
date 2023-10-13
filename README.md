@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently working as a Java Backend Developer in Beijing, mainly dealing with Java, MySQL, Elasticsearch, Hive, ClickHouse, and more.
 - 🌱 I'm currently learning AIGC aiming to achieve a level of Junior Recommendation Algorithm Engineer.
+- 📚 I hold an IELTS score of 7.0 and a C1 Driving License.
 - 💬 I'm passionate about board games, movies.
 - ⚡ Fun fact: I dream of performing standup comedy one day!
 
