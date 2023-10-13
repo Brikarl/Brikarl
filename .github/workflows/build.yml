@@ -6,7 +6,7 @@ on:
   schedule:
     - cron: '0 * * * *'
 env:
-  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 jobs:
   build:
@@ -29,7 +29,6 @@ jobs:
         run: |
           python -m pip install -r requirements.txt
       - name: Update README
-
         run: |-
           python build_readme.py
           cat README.md
@@ -41,4 +40,4 @@ jobs:
           git pull
           git add -A
           git commit -m "Updated content" || exit 0
-          git push
+          git push https://${{ secrets.GH_TOKEN }}@github.com/Brikarl/Brikarl.git
