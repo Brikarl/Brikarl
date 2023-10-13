@@ -23,6 +23,7 @@
 
 ### ⚒️ Other Technologies:
 ![OpenAI](https://img.shields.io/badge/-OpenAI-%23412991?style=flat-square&logo=openai&logoColor=ffffff)
+![Midjourney](https://img.shields.io/badge/-Midjourney-%1A285F?style=flat-square&logo=ship&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F48120?style=flat-square&logo=cloudflare&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
