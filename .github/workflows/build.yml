@@ -6,7 +6,7 @@ on:
   schedule:
     - cron: '0 * * * *'
 env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
@@ -42,4 +42,4 @@ jobs:
           git pull
           git add -A
           git commit -m "Updated content" || exit 0
-          git push https://${{ secrets.GH_TOKEN }}@github.com/Brikarl/Brikarl.git
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/Brikarl/Brikarl.git
