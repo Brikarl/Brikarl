@@ -34,7 +34,6 @@ jobs:
           python build_readme.py
           cat README.md
       - name: Commit and push if changed
-        if: env.GH_TOKEN != null
         run: |-
           git diff
           git config --global user.email "627639128@qq.com"
@@ -42,4 +41,4 @@ jobs:
           git pull
           git add -A
           git commit -m "Updated content" || exit 0
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/Brikarl/Brikarl.git
+          git push
