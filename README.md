@@ -43,16 +43,16 @@
 
 ## 🤔 Recent Activity
 <!-- douban starts -->
-- [想看泪之谷](http://movie.douban.com/subject/34971777/) - 2023-10-13
-- [想看过年回家](http://movie.douban.com/subject/1303509/) - 2023-10-12
-- [想看看上去很美](http://movie.douban.com/subject/1469441/) - 2023-10-12
-- [在看黑道家族  第五季](http://movie.douban.com/subject/2154325/) - 2023-10-11
-- [看过黑道家族 第四季](http://movie.douban.com/subject/2154326/) - 2023-10-11
-- [想看第二十条](http://movie.douban.com/subject/36208094/) - 2023-10-10
-- [想看主角](http://movie.douban.com/subject/35295564/) - 2023-10-10
-- [想看英雄联盟](http://movie.douban.com/subject/35489169/) - 2023-10-10
-- [想看少年时代](http://movie.douban.com/subject/34441425/) - 2023-10-10
-- [想读事业还是家庭？](https://book.douban.com/subject/36428654/) - 2023-10-10
+- [想看「泪之谷」](http://movie.douban.com/subject/34971777/) - 2023-10-13
+- [想看「过年回家」](http://movie.douban.com/subject/1303509/) - 2023-10-12
+- [想看「看上去很美」](http://movie.douban.com/subject/1469441/) - 2023-10-12
+- [在看「黑道家族  第五季」](http://movie.douban.com/subject/2154325/) - 2023-10-11
+- [看过「黑道家族 第四季」](http://movie.douban.com/subject/2154326/) - 2023-10-11
+- [想看「第二十条」](http://movie.douban.com/subject/36208094/) - 2023-10-10
+- [想看「主角」](http://movie.douban.com/subject/35295564/) - 2023-10-10
+- [想看「英雄联盟」](http://movie.douban.com/subject/35489169/) - 2023-10-10
+- [想看「少年时代」](http://movie.douban.com/subject/34441425/) - 2023-10-10
+- [想读「事业还是家庭？」](https://book.douban.com/subject/36428654/) - 2023-10-10
 <!-- douban ends -->
 
 > I hope to learn and grow together with everyone through my projects and code!
