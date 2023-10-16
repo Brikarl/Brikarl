@@ -30,6 +30,18 @@ def fetch_douban():
     ]
 
 
+def fetch_notions():
+    entries = feedparser.parse("https://zapier.com/engine/rss/16774570/share")["entries"]
+    return [
+        {
+            "title": item["title"],
+            "description": item["description"] if "description" in item else "",
+            "author": item["author"] if "author" in item else "",
+        }
+        for item in entries
+    ]
+
+
 def formatGMTime(timestamp):
     GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
     dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT) + datetime.timedelta(hours=8)
@@ -46,5 +58,12 @@ if __name__ == "__main__":
     )
 
     rewritten = replace_chunk(readme_contents, "douban", doubans_md)
+
+    notions = fetch_notions()[0:5]
+    notions_md = "\n".join(
+        ["- {title} - *{author}*\n"
+         "  - > {description}".format(**item) for item in notions]
+    )
+    rewritten = replace_chunk(rewritten, "notion", notions_md)
 
     readme.open("w").write(rewritten)
