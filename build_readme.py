@@ -35,7 +35,7 @@ def fetch_notions():
     return [
         {
             "title": item["title"],
-            "description": item["description"] if "description" in item else "",
+            "description": item["description"].replace("\n", " "),
             "author": item["author"] if "author" in item else "",
         }
         for item in entries
