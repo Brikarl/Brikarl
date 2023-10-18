@@ -81,4 +81,4 @@
   - > 如果你和对方之间，已经确定有一只“房间里的大象”了，那么最好的方式，就是别避而不谈啊。说出来，点破“这只大象”的存在，这种尴尬的氛围才会消散。  遇到这种情况，你现在心情一定很不好吧？ 我今天还能分点时间出来，你现在手里的活儿，有什么我能分担的、能帮你的吗？
 <!-- notion ends -->
 
-> I hope to learn and grow together with everyone through my projects and code!
+*I hope to learn and grow together with everyone through my projects and code!*
