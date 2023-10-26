@@ -69,16 +69,16 @@
 ## 📚 Recent Notes
 
 <!-- notion starts -->
+- 读书笔记 - *Elon Musk*
+  - > The Musk family kept German Shepherd dogs that were trained to attack anyone running by the house. When he was six, Elon was racing down the drive way and his favorite dog attacked him, taking a massive bite out of his back. In the emergency room, when they were preparing to stitch him up, he resisted being treated until he was promised that the dog would not be punished. “You’re not going to kill him, are you?” Elon asked. They swore that they wouldn’t. In recounting the story, Musk pauses and stares vacantly for a very long time. “Then they damn well shot the dog dead.”
+- 读书笔记 - *Elon Musk*
+  - > When I was reporting on Steve Jobs, his partner Steve Wozniak said that the big question to ask was Did he have to be so mean? So rough and cruel? So drama-addicted? When I turned the question back to Woz at the end of my reporting,he said that if he had run Apple, he would have been kinder. He would have treated everyone there like family and not summarily fired people. Then he paused and added, “But if I had run Apple, we may never have made the Macintosh.”And thus the question about Elon Musk: Could he have been more chill and still be the one launching us toward Mars and an electric-vehicle future?
 - 读书笔记 - *奥本海默传*
   - > 尽管有些不情愿，爱因斯坦最终还是对这位新院长产生了敬意，他形容这位院长是一位“能力超群、博学多识之人”，但他钦佩的只是奥本海默的为人，而不是他的专业。尽管如此，爱因斯坦也从来没把奥本海默当成自己的密友，“也许部分原因是我们的科学见解截然不同”。早在20世纪30年代，奥本海默就曾因爱因斯坦顽固地拒绝接受量子理论而称他为“十足的疯子”。奥本海默请到普林斯顿的所有年轻物理学家都笃信玻尔的量子理论，他们对爱因斯坦那些挑战量子世界观的问题毫无兴趣，他们无法理解为什么这位伟人不知疲倦地想要建立一种“统一场论”来取代他所谓的量子理论的矛盾之处。这是一项孤独的工作，然而他颇为满足于继续为“上帝不掷骰子”辩护，这句话也是他对量子力学的基础之一——海森伯不确定性原理的扼要批评。爱因斯坦并不介意普林斯顿的大多数同事“把我看作异端和保守派，认为我已经过气了”。
 - 读书笔记 - *奥本海默传*
   - > 奥本海默租了一架私人水上飞机前往波士顿，他将在那里接受哈佛大学授予他的荣誉学位。维克托·魏斯科普夫和其他几位要返回哈佛的物理学家接受了他的邀请，和他乘坐同一架飞机离开。在半路上，他们遇到了暴风雨，飞行员决定降落在康涅狄格州新伦敦的一个海军基地，但是这个机场禁止民用飞机起降，当飞机滑行到码头时，飞行员看到一个愤怒的海军上尉对他大喊大叫。奥本海默对飞行员说：“我来处理吧。”他走下飞机时自我介绍道：“我叫奥本海默。”海军军官倒吸了一口气，问道：“您就是那位奥本海默吗？”奥本海默毫不犹豫地回答道：“我就是奥本海默。”能见到这个著名的物理学家让这位军官喜不自胜，他特意为奥本海默和他的朋友们提供了茶和饼干，然后让他们乘坐一辆海军大巴前往波士顿。
 - 读书笔记 - *奥本海默传*
   - > 虽然学术圈的政治是出了名的锱铢必较，但奥本海默还面临着一些研究院特有的难题。从学科规律来看，数学家往往在二三十岁时就能凭天赋到达职业巅峰，而历史学家和其他社会科学家经常需要多年的勤奋准备才能开始真正的创作。因此，研究院可以轻而易举地发现并招募到杰出的年轻数学家，但几乎不会聘任资历尚浅的历史学家。而且，那些年轻的数学家可以读懂并评价历史学家的工作，但没有一位历史学家能对数学系的候选人评头论足。最令人伤脑筋的地方是：数学家的全盛时期很快就会过去，而且因为没有教学职责，他们人到中年后，许多人的兴趣开始转移到别的地方。如果没有什么能吸引他们的注意力，这些数学家就会把每一次聘任都搞得火药味十足。相反，那些非数学领域的学者因为年龄较大而且正处于职业生涯的全盛期，他们对于这种学术斗争既没有兴趣也无暇顾及。但是，令数学家们不快的是，他们在奥本海默身上发现，面前的这位院长虽然是一个物理学家，但他已经下定决心要让高等研究院在自然科学与人文、社会科学之间保持平衡。为此，他招募了心理学家、文学评论家甚至诗人，这让数学家们感到错愕。
-- 读书笔记 - *奥本海默传*
-  - > 直到1949年10月，杜鲁门才意识到超级炸弹的可行性，但是获悉这一消息之后，总统马上就产生了浓厚的兴趣。奥本海默对超级炸弹一直持怀疑态度，他在给科南特的信中写道：“我不确定这个破东西是否行得通，也不确定除了用牛车拉，我们还能怎么把它运到轰炸目标。”他预计超级炸弹会是一个庞然大物，根本没法用飞机运输。这种比原子弹破坏力大千万倍的武器让他深感良心不安，所以他希望能证明超级炸弹在技术上是行不通的。比原子弹（裂变反应）更可怕的超级炸弹（聚变反应）肯定会使核军备竞赛升级。核聚变的物理学原理效仿了太阳内部的核反应，这意味着聚变爆炸没有极限。只要加入更多的重氢就可以实现更强烈的爆炸。如果装备了超级炸弹，一架飞机可以在几分钟内杀死数百万人。对任何已知的军事目标来说，它的威力都过于巨大，作为一种大规模杀伤性武器，它将滥杀无辜。一想到可能制造出这样的武器，奥本海默就充满恐惧，但这种可能性也激发了另外一群人的想象力，这些人包括众多的空军将领和他们在国会的支持者，以及支持爱德华·泰勒制造超级炸弹的科学家们。
-- 同事受到工作上的打击，怎么安慰？ - *得到/训练营/沟通训练营*
-  - > 如果你和对方之间，已经确定有一只“房间里的大象”了，那么最好的方式，就是别避而不谈啊。说出来，点破“这只大象”的存在，这种尴尬的氛围才会消散。  遇到这种情况，你现在心情一定很不好吧？ 我今天还能分点时间出来，你现在手里的活儿，有什么我能分担的、能帮你的吗？
 <!-- notion ends -->
 
 *I hope to learn and grow together with everyone through my projects and code!*
