@@ -56,6 +56,7 @@
 <!-- douban starts -->
 - [最近「在玩哥谭骑士 Gotham Knights」](http://www.douban.com/game/35176007/) - 2023-12-30
 - [玩过「霍格沃茨之遗 Hogwarts Legacy」](http://www.douban.com/game/30341353/) - 2023-12-30
+- [在看「假如…？ 第二季」](http://movie.douban.com/subject/35471943/) - 2023-12-29
 - [想看「流人 第五季」](http://movie.douban.com/subject/36689815/) - 2023-12-28
 - [看过「流人 第三季」](http://movie.douban.com/subject/35918976/) - 2023-12-28
 - [想看「夜幕将至」](http://movie.douban.com/subject/35211474/) - 2023-12-27
