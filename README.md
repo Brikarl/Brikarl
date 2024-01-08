@@ -27,6 +27,7 @@
 
 ### ⚒️ Other Technologies:
 
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%23412991?style=flat-square&logo=smile&color=FFFF66)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-%23412991?style=flat-square&logo=openai&logoColor=ffffff)
 ![Midjourney](https://img.shields.io/badge/-Midjourney-%1A285F?style=flat-square&logo=ship&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F48120?style=flat-square&logo=cloudflare&logoColor=ffffff)
