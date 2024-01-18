@@ -55,7 +55,7 @@
 
 <!-- douban starts -->
 - [想看「冰血暴 第五季」](http://movie.douban.com/subject/35774682/) - 2024-01-18
-- [想看「绅士们(剧版)」](http://movie.douban.com/subject/35370747/) - 2024-01-16
+- [想看「绅士们」](http://movie.douban.com/subject/35370747/) - 2024-01-16
 - [想看「可怜的东西」](http://movie.douban.com/subject/35350109/) - 2024-01-16
 - [想读「全球电影商业」](https://book.douban.com/subject/36488300/) - 2024-01-15
 - [想读「教父电影全剧本（全彩插图评注版）」](https://book.douban.com/subject/30317910/) - 2024-01-15
