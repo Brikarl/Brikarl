@@ -57,7 +57,7 @@
 - [想看「机器人之梦」](http://movie.douban.com/subject/35426925/) - 2024-02-26
 - [想看「美国小说」](http://movie.douban.com/subject/36212631/) - 2024-02-26
 - [想读「经济制裁」](https://book.douban.com/subject/36720562/) - 2024-02-26
-- [想看「怒呛人生」](http://movie.douban.com/subject/35413042/) - 2024-02-25
+- [想看「怒呛人生 第一季」](http://movie.douban.com/subject/35413042/) - 2024-02-25
 - [想读「掌控习惯」](https://book.douban.com/subject/34326931/) - 2024-02-25
 - [看过「周处除三害」](http://movie.douban.com/subject/36151692/) - 2024-02-24
 - [想看「关于我和鬼变成家人的那件事」](http://movie.douban.com/subject/35698284/) - 2024-02-24
