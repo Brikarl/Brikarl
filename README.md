@@ -62,7 +62,7 @@
 - [想看「毒液3」](http://movie.douban.com/subject/35087675/) - 2024-05-05
 - [想看「梦境」](http://movie.douban.com/subject/34453198/) - 2024-05-05
 - [想看「头脑特工队2」](http://movie.douban.com/subject/36090457/) - 2024-05-05
-- [在看「幕府将军」](http://movie.douban.com/subject/30291334/) - 2024-05-04
+- [在看「幕府将军 第一季」](http://movie.douban.com/subject/30291334/) - 2024-05-04
 - [看过「群星」](http://movie.douban.com/subject/35861910/) - 2024-05-04
 <!-- douban ends -->
 
