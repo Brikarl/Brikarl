@@ -63,6 +63,7 @@
 - [读过「这就是ChatGPT」](https://book.douban.com/subject/36449803/) - 2024-06-07
 - [读过「超越百岁」](https://book.douban.com/subject/36696538/) - 2024-06-07
 - [想看「星球大战：侍者」](http://movie.douban.com/subject/35058564/) - 2024-06-05
+- [玩过「好莱坞动物 Hollywood Animal」](http://www.douban.com/game/36639414/) - 2024-06-03
 <!-- douban ends -->
 
 ## 📚 Recent Notes
