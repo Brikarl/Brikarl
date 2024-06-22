@@ -59,7 +59,6 @@
 - [想看「接班人计划」](http://movie.douban.com/subject/36653918/) - 2024-06-20
 - [想看「抓特务」](http://movie.douban.com/subject/36812879/) - 2024-06-19
 - [在看「龙之家族 第二季」](http://movie.douban.com/subject/36073279/) - 2024-06-18
-- [想读「從零開始，用YouTube影片學日文 2」](https://book.douban.com/subject/36572041/) - 2024-06-16
 - [最近「在玩刺客信条：幻景 Assassin's Creed Mirage」](http://www.douban.com/game/36076176/) - 2024-06-16
 - [想玩「刺客信条：影 Assassin’s Creed Shadows」](http://www.douban.com/game/36090790/) - 2024-06-16
 - [看过「关于我和鬼变成家人的那件事」](http://movie.douban.com/subject/35698284/) - 2024-06-15
