@@ -59,7 +59,7 @@
 - [看过「头脑特工队2」](http://movie.douban.com/subject/36090457/) - 2024-06-23
 - [想看「陆军野战医院」](http://movie.douban.com/subject/1292766/) - 2024-06-21
 - [想看「异人之下」](http://movie.douban.com/subject/35228399/) - 2024-06-20
-- [想看「接班人计划」](http://movie.douban.com/subject/36653918/) - 2024-06-20
+- [想看「抓娃娃」](http://movie.douban.com/subject/36653918/) - 2024-06-20
 - [想看「抓特务」](http://movie.douban.com/subject/36812879/) - 2024-06-19
 - [在看「龙之家族 第二季」](http://movie.douban.com/subject/36073279/) - 2024-06-18
 - [想读「從零開始，用YouTube影片學日文 2」](https://book.douban.com/subject/36572041/) - 2024-06-16
