@@ -62,7 +62,7 @@
 - [想读「以毒为药」](https://book.douban.com/subject/36873852/) - 2024-07-18
 - [想读「乡下人的悲歌」](https://book.douban.com/subject/27007881/) - 2024-07-16
 - [在看「火线  第二季」](http://movie.douban.com/subject/2154348/) - 2024-07-15
-- [玩过「这个游戏」](http://www.douban.com/game/35544743/) - 2024-07-14
+- [玩过「刺客信条 英灵殿：围攻巴黎 Assassin's Creed Valhalla：THE SIEGE OF PARIS」](http://www.douban.com/game/35544743/) - 2024-07-14
 - [看过「抓娃娃」](http://movie.douban.com/subject/36653918/) - 2024-07-13
 <!-- douban ends -->
 
