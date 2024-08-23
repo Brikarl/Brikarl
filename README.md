@@ -57,7 +57,7 @@
 - [想看「绿灯军团」](http://movie.douban.com/subject/36225837/) - 2024-08-22
 - [想看「夜魔侠：重生 第一季」](http://movie.douban.com/subject/35908203/) - 2024-08-22
 - [想看「地球特派员」](http://movie.douban.com/subject/36090458/) - 2024-08-22
-- [最近「在玩黑神话：悟空 Black Myth: Wu Kong」](http://www.douban.com/game/35184766/) - 2024-08-21
+- [最近「在玩黑神话：悟空」](http://www.douban.com/game/35184766/) - 2024-08-21
 - [想读「折腾不止」](https://book.douban.com/subject/37009789/) - 2024-08-20
 - [在看「地球脉动 第三季」](http://movie.douban.com/subject/33387357/) - 2024-08-20
 - [想读「谁杀了我的父亲」](https://book.douban.com/subject/36866309/) - 2024-08-20
