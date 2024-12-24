@@ -57,7 +57,7 @@
 - [看过「豺狼的日子 第一季」](http://movie.douban.com/subject/36323224/) - 2024-12-21
 - [看过「秘密关卡 第一季」](http://movie.douban.com/subject/37005611/) - 2024-12-19
 - [想看「无名小辈」](http://movie.douban.com/subject/34940704/) - 2024-12-17
-- [想看「未定名克里斯托弗·诺兰新片」](http://movie.douban.com/subject/36808876/) - 2024-12-16
+- [想看「奥德赛」](http://movie.douban.com/subject/36808876/) - 2024-12-16
 - [想看「死亡搁浅」](http://movie.douban.com/subject/36188212/) - 2024-12-16
 - [想看「倩女幽魂」](http://movie.douban.com/subject/1297447/) - 2024-12-16
 - [看过「雄狮少年」](http://movie.douban.com/subject/35144311/) - 2024-12-15
