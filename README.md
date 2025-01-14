@@ -55,7 +55,7 @@
 
 <!-- douban starts -->
 - [想看「又是充满希望的一天」](http://movie.douban.com/subject/36059888/) - 2025-01-13
-- [想看「9号秘事 中国版」](http://movie.douban.com/subject/36455020/) - 2025-01-13
+- [想看「九号秘事之黑帷背后」](http://movie.douban.com/subject/37196710/) - 2025-01-13
 - [想看「黑暗面」](http://movie.douban.com/subject/6536180/) - 2025-01-13
 - [想看「隐藏的面孔」](http://movie.douban.com/subject/35681325/) - 2025-01-12
 - [看过「穿越时空的少女」](http://movie.douban.com/subject/1937946/) - 2025-01-11
