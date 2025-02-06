@@ -56,13 +56,7 @@
 <!-- douban starts -->
 - [想看「郑和下西洋1：沧海幽冥」](http://movie.douban.com/subject/35697580/) - 2025-02-06
 - [想看「哪吒3」](http://movie.douban.com/subject/37219344/) - 2025-02-06
-- [想读「張忠謀自傳」](https://book.douban.com/subject/37109592/) - 2025-02-06
-- [想读「張忠謀自傳」](https://book.douban.com/subject/37109593/) - 2025-02-06
-- [想读「本自具足，无须外求」](https://book.douban.com/subject/37146231/) - 2025-02-05
-- [读过「剑指Offer（专项突破版）」](https://book.douban.com/subject/35543447/) - 2025-02-04
 - [想看「前任杀神」](http://movie.douban.com/subject/36721137/) - 2025-02-03
-- [想读「无量之网（全新修订本）」](https://book.douban.com/subject/35015409/) - 2025-02-02
-- [想读「无量之网」](https://book.douban.com/subject/26949352/) - 2025-02-02
 - [想看「初步举证」](http://movie.douban.com/subject/35861791/) - 2025-02-02
 <!-- douban ends -->
 
