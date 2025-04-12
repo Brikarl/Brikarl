@@ -56,7 +56,7 @@
 <!-- douban starts -->
 - [想看「匹兹堡医护前线 第一季」](https://movie.douban.com/subject/36831851/) - 2025-04-11
 - [想读「货币、权力与人」](https://book.douban.com/subject/34807450/) - 2025-04-11
-- [想读「侥幸求生」](https://book.douban.com/subject/37293048/) - 2025-04-11
+- [想读「侥幸求生：阿尔·帕西诺自传」](https://book.douban.com/subject/37293048/) - 2025-04-11
 - [想读「深度学习推荐系统2.0（全彩）」](https://book.douban.com/subject/37286473/) - 2025-04-07
 - [想读「生活在极限之内」](https://book.douban.com/subject/26709637/) - 2025-04-06
 - [读过「AI经济学」](https://book.douban.com/subject/37132859/) - 2025-04-06
