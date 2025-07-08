@@ -55,12 +55,8 @@
 
 <!-- douban starts -->
 - [想看「淘金记」](https://movie.douban.com/subject/1298817/) - 2025-07-07
-- [最近「在读为什么」](https://book.douban.com/subject/33438811/) - 2025-07-07
 - [看过「小白船」](https://movie.douban.com/subject/35441503/) - 2025-07-05
-- [想读「思考，快与慢」](https://book.douban.com/subject/37270984/) - 2025-07-03
 - [想看「恶意」](https://movie.douban.com/subject/36809947/) - 2025-07-02
-- [最近「在读因为独特」](https://book.douban.com/subject/37105779/) - 2025-07-02
-- [读过「小镇喧嚣」](https://book.douban.com/subject/30122152/) - 2025-07-02
 - [想看「超级少女」](https://movie.douban.com/subject/36225840/) - 2025-07-01
 - [想看「极限返航」](https://movie.douban.com/subject/35010610/) - 2025-07-01
 - [看过「鱿鱼游戏 第三季」](https://movie.douban.com/subject/36407380/) - 2025-06-29
