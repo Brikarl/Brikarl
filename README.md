@@ -63,7 +63,6 @@
 - [最近「在读认知觉醒」](https://book.douban.com/subject/35193035/) - 2026-07-18
 - [想看「我演洛奇」](https://movie.douban.com/subject/36885904/) - 2026-07-18
 - [想看「群星闪耀时」](https://movie.douban.com/subject/35875462/) - 2026-07-16
-- [玩过「8号出口 ８番出口」](http://www.douban.com/game/36633345/) - 2026-07-14
 <!-- douban ends -->
 
 ## 📚 Recent Notes
